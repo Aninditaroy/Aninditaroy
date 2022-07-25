@@ -2,7 +2,6 @@
 #### Web Developer | Frontend Developer
 I build things for the web & have an interest in web development. I am flexible and adaptive to learning new things.
 
-![Profile views](https://gpvc.arturio.dev/aninditaroy)  
 
 Skills:  React / JS / HTML / CSS / MongoDB / NodeJS 
 
