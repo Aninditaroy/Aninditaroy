@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anindita Roy
 #### Web Developer | Frontend Developer
-I build things for the web & have an interest in web development. I am flexible and adaptive to learning new things.
+I build things for the web. I have an interest in web development. I am flexible and adaptive to learning new things.
 
 
 Skills:  React / JS / HTML / CSS / MongoDB / NodeJS 
