@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Anindita. I'm a junior web developer and this is my GitHub profile. Here are some things you might want to know about me:<br><br>- I'm passionate about creating beautiful and functional websites using HTML, CSS, JavaScript, React, React Native, Node.js, and MongoDB.<br>- I'm currently learning NextJS, Medusa, and Liquid to expand my skills and build full-stack applications.<br>- I have some projects on my GitHub that showcase my work and learning progress. Feel free to check them out and give me feedback.<br>- I'm always eager to learn new things and improve myself as a developer and keep me updated on the latest trends and technologies.<br><br><br>Thank you for visiting my profile and have a great day! 😊</p>
+<p align="left">I'm Anindita. I'm a junior web developer and this is my GitHub profile. Here are some things you might want to know about me:<br><br>- I'm passionate about creating beautiful and functional websites using HTML, CSS, JavaScript, React, React Native, Node.js, and MongoDB.<br>- I'm currently learning NextJS, Medusa, Liquid, and TypeScript to expand my skills and build full-stack applications.<br>- I have some projects on my GitHub that showcase my work and learning progress. Feel free to check them out and give me feedback.<br>- I'm always eager to learn new things and improve myself as a developer and keep me updated on the latest trends and technologies.<br><br><br>Thank you for visiting my profile and have a great day! 😊</p>
 
 ###
 
